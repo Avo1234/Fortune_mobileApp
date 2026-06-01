@@ -1,4 +1,4 @@
-# fortune_cookie
+# Fortune_Mobile App
 
 A new Flutter project.
 
